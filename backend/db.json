@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook",
+      "price": "5782.14"
+    },
+    {
+      "id": 2,
+      "name": "Macbook",
+      "price": "10782.65"
+    },
+    {
+      "id": 3,
+      "name": "Desktop",
+      "price": "1578.09"
+    }
+  ]
+}
